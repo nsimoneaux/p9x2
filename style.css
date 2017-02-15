@@ -30,3 +30,9 @@ p {
   font-size: 60px;
   animation-duration: 1s;
 }
+
+#suggestion{
+  font-size: 10px;
+  font-style: italic;
+  font-family: cursive;
+}
