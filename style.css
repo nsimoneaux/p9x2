@@ -7,3 +7,15 @@ p {
   height: 300px;
   width: 400px;
 }
+
+@keyframes swageffect{
+    0%  {color:red;}
+   25%  {color:yellow;}
+   50%  {color:blue;}
+   75%  {color:green;}
+   100% {color:red;}
+}
+
+#swagmessage{
+  animation-name: swageffect;
+}
